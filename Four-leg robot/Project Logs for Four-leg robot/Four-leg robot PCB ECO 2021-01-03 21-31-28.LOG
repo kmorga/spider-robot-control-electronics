@@ -1,0 +1,5 @@
+Added Component: Designator=SW2(DTSM-3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TEST_BUT Pin=SW2-1
+Added Pin To Net: NetName=5V Pin=SW2-2
+Added Member To Class: ClassName=Four-leg robot Member=Component SW2 DTSM31N

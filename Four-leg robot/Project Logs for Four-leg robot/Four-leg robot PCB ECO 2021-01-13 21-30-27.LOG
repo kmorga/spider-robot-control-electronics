@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=TRX NewDesignator=RXT
+Change Component Designator: OldDesignator=TTX NewDesignator=TXT
+Added Member To Class: ClassName=Four-leg robot Member=Component RX LED

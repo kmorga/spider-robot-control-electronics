@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=Four-leg robot Member=CN14
+Change Component Designator: OldDesignator=CN1 NewDesignator=PWR
+Change Component Designator: OldDesignator=CN2 NewDesignator=CN1
+Change Component Designator: OldDesignator=CN3 NewDesignator=CN2
+Change Component Designator: OldDesignator=CN4 NewDesignator=CN3
+Change Component Designator: OldDesignator=CN5 NewDesignator=CN4
+Change Component Designator: OldDesignator=CN6 NewDesignator=CN5
+Change Component Designator: OldDesignator=CN7 NewDesignator=CN6
+Change Component Designator: OldDesignator=CN8 NewDesignator=CN7
+Change Component Designator: OldDesignator=CN9 NewDesignator=CN8
+Change Component Designator: OldDesignator=CN10 NewDesignator=CN9
+Change Component Designator: OldDesignator=CN11 NewDesignator=CN10
+Change Component Designator: OldDesignator=CN12 NewDesignator=CN11
+Change Component Designator: OldDesignator=CN13 NewDesignator=CN12
+Change Component Designator: OldDesignator=CN14 NewDesignator=CN13
+Change Component Description : Designator=U1 Old Description=Voltage stabiliser; PMIC; 5A; TO263-5; SMD; buck; -20A·85Â°C; 800pcs. New Description=Voltage stabiliser; PMIC; 5A; TO263-5; SMD; buck; -20A·85Â°C; 800pcs.
+Change Net Name : Old Net Name=NetCN1_1 New Net Name=NetPWR_1
+Added Member To Class: ClassName=Four-leg robot Member=Component PWR 15EDGRC-3.5/2P

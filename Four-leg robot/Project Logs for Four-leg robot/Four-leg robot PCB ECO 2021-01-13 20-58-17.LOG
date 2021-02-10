@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=CN13 NewDesignator=ISP
+Change Component Description : Designator=U1 Old Description=Voltage stabiliser; PMIC; 5A; TO263-5; SMD; buck; -20A·85Â°C; 800pcs. New Description=Voltage stabiliser; PMIC; 5A; TO263-5; SMD; buck; -20A·85Â°C; 800pcs.
+Added Member To Class: ClassName=Four-leg robot Member=Component R3 

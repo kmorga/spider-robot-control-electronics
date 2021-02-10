@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SERVO7 Pin=ATMEGA-1
+Removed Pin From Net: NetName=SERVO8 Pin=ATMEGA-2
+Removed Pin From Net: NetName=SERVO9 Pin=ATMEGA-9
+Removed Pin From Net: NetName=SERVO10 Pin=ATMEGA-10
+Removed Pin From Net: NetName=SERVO11 Pin=ATMEGA-11
+Removed Pin From Net: NetName=SERVO12 Pin=ATMEGA-12
+Added Pin To Net: NetName=SERVO7 Pin=ATMEGA-9
+Added Pin To Net: NetName=SERVO8 Pin=ATMEGA-10
+Added Pin To Net: NetName=SERVO9 Pin=ATMEGA-11
+Added Pin To Net: NetName=SERVO10 Pin=ATMEGA-12
+Added Pin To Net: NetName=SERVO11 Pin=ATMEGA-13
+Added Pin To Net: NetName=SERVO12 Pin=ATMEGA-14
+Added Room: Name=Four-leg robot

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BT_RX Pin=HC1-1
+Removed Pin From Net: NetName=BT_TX Pin=HC1-2
+Removed Pin From Net: NetName=GND Pin=HC1-3
+Removed Pin From Net: NetName=3V3 Pin=HC1-4
+Added Pin To Net: NetName=3V3 Pin=HC1-1
+Added Pin To Net: NetName=GND Pin=HC1-2
+Added Pin To Net: NetName=BT_TX Pin=HC1-3
+Added Pin To Net: NetName=BT_RX Pin=HC1-4
+Added Member To Class: ClassName=Four-leg robot Member=Component C10 *
+Added Room: Name=Four-leg robot

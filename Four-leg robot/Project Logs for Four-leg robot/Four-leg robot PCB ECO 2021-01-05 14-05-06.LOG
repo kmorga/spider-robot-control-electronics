@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=5V Pin=C6-2
+Removed Member From Class: ClassName=Four-leg robot Member=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C6
+Change Component Description : Designator=U1 Old Description=Voltage stabiliser; PMIC; 5A; TO263-5; SMD; buck; -20A·85Â°C; 800pcs. New Description=Voltage stabiliser; PMIC; 5A; TO263-5; SMD; buck; -20A·85Â°C; 800pcs.
+Added Room: Name=Four-leg robot

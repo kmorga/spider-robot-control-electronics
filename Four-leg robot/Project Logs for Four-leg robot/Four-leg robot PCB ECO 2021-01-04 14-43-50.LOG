@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=PWR-2
+Removed Pin From Net: NetName=NetQ1_5 Pin=SW1-3
+Removed Member From Class: ClassName=Four-leg robot Member=PWR
+Removed Member From Class: ClassName=Four-leg robot Member=SW1
+Added Component: Designator=PWR?(15EDGRC-3.5/4P_WO_CN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "link"; Value = "https://www.tme.eu/pl/details/15edgk-3.5-02p-13/listwy-zaciskowe-rozlaczalne/degson-electronics/15edgk-3-5-02p-13-00ah/"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(C&K_1101M2S3CQE2_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/403d1beb71d14239/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://upverter.com/datasheet/a7139684b05aeea94593aa7ac14a507e079abd51.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "SWITCH SLIDE SPDT 6A 120V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "CKN5001-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/403d1beb71d14239/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-1101M2S3CQE2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_PTH_BNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1101M2S3CQE2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.74673798286"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CKN5001-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "611-1101M2S3CQE2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-30° to +65°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+65°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-30°"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PWR?-2
+Added Pin To Net: NetName=NetQ1_5 Pin=SW?-1
+Added Pin To Net: NetName=NetPWR?_1 Pin=PWR?-1
+Added Pin To Net: NetName=NetPWR?_1 Pin=SW?-2
+Added Net: Name=NetPWR?_1
+Added Member To Class: ClassName=Four-leg robot Member=Component PWR? 15EDGRC-3.5/2P
+Added Member To Class: ClassName=Four-leg robot Member=Component SW? Switch_C&K_1101M2S3CQE2_eec
+Added Room: Name=Four-leg robot

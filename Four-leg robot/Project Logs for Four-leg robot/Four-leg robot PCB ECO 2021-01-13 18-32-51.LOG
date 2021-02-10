@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=GND_TEST NewDesignator=GND
+Change Component Designator: OldDesignator=PS_TEST NewDesignator=5V
+Change Component Designator: OldDesignator=RX_TEST NewDesignator=RX
+Change Component Designator: OldDesignator=TX_TEST NewDesignator=TX

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=ATMEGA 1 NewDesignator=ATMEGA
+Change Net Name : Old Net Name=NetATMEGA 1_20 New Net Name=NetATMEGA_20
+Added Member To Class: ClassName=Four-leg robot Member=Component CN13 IDC Connector
+Added Room: Name=Four-leg robot

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=3V3 Pin=C10-2
+Removed Member From Class: ClassName=Four-leg robot Member=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Added Member To Class: ClassName=Four-leg robot Member=Component C6 *
+Added Room: Name=Four-leg robot

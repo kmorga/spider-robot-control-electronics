@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Added Member To Class: ClassName=Four-leg robot Member=Component C5 *
+Added Member To Class: ClassName=Four-leg robot Member=Component C7 *

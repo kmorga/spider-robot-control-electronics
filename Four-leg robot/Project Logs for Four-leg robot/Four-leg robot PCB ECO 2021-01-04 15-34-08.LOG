@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-223_M New Footprint=Infineon_PG-DSO-8_MFG
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-5
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-6
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-7
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-8
+Added Room: Name=Four-leg robot

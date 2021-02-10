@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C1 Old Footprint=CES_A_3.3x3.3_5.4 New Footprint=SMDB
+Change Component Footprint: Designator=C2 Old Footprint=CES_A_3.3x3.3_5.4 New Footprint=SMDB
+Change Component Designator: OldDesignator=-PWR NewDesignator=PWR
+Change component parameters: Designator = "PWR"; Footprint = "15EDGRC-3.81/2P_WO_CN"; UniqueID = "\ODYXFBDH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "link"; Value = "https://www.tme.eu/pl/details/15edgk3.81-02p/listwy-zaciskowe-rozlaczalne/degson-electronics/15edgk-3-81-02p-14-00a-h/"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Four-leg robot Member=Component Y1 16 MHz

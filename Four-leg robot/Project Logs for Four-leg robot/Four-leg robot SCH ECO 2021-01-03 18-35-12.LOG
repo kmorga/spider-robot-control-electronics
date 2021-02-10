@@ -1,0 +1,23 @@
+Change Component Designator: Old Designator=ATMEGA 328P New Designator=ATMEGA 1
+Change Component Designator: Old Designator=CN? New Designator=CN1
+Change Component Designator: Old Designator=GND_TEST New Designator=GND_TEST1
+Change Component Designator: Old Designator=HC05 New Designator=HC1
+Change Component Designator: Old Designator=L? New Designator=L1
+Change Component Designator: Old Designator=PS_TEST New Designator=PS_TEST1
+Change Component Designator: Old Designator=Q? New Designator=Q1
+Change Component Designator: Old Designator=Q? New Designator=Q2
+Change Component Designator: Old Designator=Q? New Designator=Q3
+Change Component Designator: Old Designator=R2 New Designator=R6
+Change Component Designator: Old Designator=R3 New Designator=R7
+Change Component Designator: Old Designator=R4 New Designator=R8
+Change Component Designator: Old Designator=R5 New Designator=R9
+Change Component Designator: Old Designator=R? New Designator=R1
+Change Component Designator: Old Designator=R? New Designator=R2
+Change Component Designator: Old Designator=R? New Designator=R3
+Change Component Designator: Old Designator=R? New Designator=R4
+Change Component Designator: Old Designator=R? New Designator=R5
+Change Component Designator: Old Designator=RX_TEST New Designator=RX_TEST1
+Change Component Designator: Old Designator=SW2 New Designator=SW3
+Change Component Designator: Old Designator=SW? New Designator=SW2
+Change Component Designator: Old Designator=TX_TEST New Designator=TX_TEST1
+Change Component Designator: Old Designator=U? New Designator=U2

@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW3
+Added Member To Class: ClassName=Four-leg robot Member=Component SW3 DTSM31N

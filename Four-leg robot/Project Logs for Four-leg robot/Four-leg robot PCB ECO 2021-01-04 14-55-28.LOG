@@ -1,0 +1,11 @@
+Added Component: Designator=Q1(SOT-223_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "inny trans"; Value = "https://www.tme.eu/pl/details/dmp3036sss-13/tranzystory-z-kanalem-p-smd/diodes-incorporated/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "jeszcze inny trans"; Value = "https://www.tme.eu/pl/details/ao4447a/tranzystory-z-kanalem-p-smd/alpha-omega-semiconductor/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://www.tme.eu/pl/details/irf7425trpbf/tranzystory-z-kanalem-p-smd/infineon-technologies/"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Member To Class: ClassName=Four-leg robot Member=Component Q1 IRF7425PBF
+Added Room: Name=Four-leg robot

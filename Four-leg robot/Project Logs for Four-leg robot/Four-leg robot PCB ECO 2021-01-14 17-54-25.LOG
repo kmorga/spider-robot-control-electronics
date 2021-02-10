@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=PWR Old Footprint=15EDGRC-3.5/4P_WO_CN New Footprint=15EDGRC-3.81/2P_WO_CN
+Change Component Comment : Designator=PWR Old Comment=15EDGRC-3.5/2P New Comment=15EDGRC-3.81/2P
+Change component parameters: Designator = "PWR"; Footprint = "15EDGRC-3.81/2P_WO_CN"; UniqueID = "\ODYXFBDH"
+Change component parameters. Clean all parameters for all variants
