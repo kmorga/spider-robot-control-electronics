@@ -5,3 +5,47 @@
 [0113/151901:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0114/032128:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
 [0115/191819:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0213/155302:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0213/155307:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0213/155320:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0213/201811:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0221/150625:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0305/142325:INFO:CONSOLE(97)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-sCi0B3wc/vfXE9P6I6phPdiJae7zjeuXHqR++uwv+VE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (97)
+[0305/142325:INFO:CONSOLE(99)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-sCi0B3wc/vfXE9P6I6phPdiJae7zjeuXHqR++uwv+VE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (99)
+[0305/142325:INFO:CONSOLE(113)] "[Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-7jjiHjsngYNMXK1A5PJQ+6CxDp9rzcSKCHyUB05DAlI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (113)
+[0305/142325:INFO:CONSOLE(176)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-9ifvWSfBhB3VCi1vNujhJ1HWnI9fz1I4WDTb4J7SjBo='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (176)
+[0307/002419:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/002437:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133458:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133515:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0308/164819:INFO:CONSOLE(97)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-sCi0B3wc/vfXE9P6I6phPdiJae7zjeuXHqR++uwv+VE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (97)
+[0308/164819:INFO:CONSOLE(99)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-sCi0B3wc/vfXE9P6I6phPdiJae7zjeuXHqR++uwv+VE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (99)
+[0308/164819:INFO:CONSOLE(113)] "[Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-7jjiHjsngYNMXK1A5PJQ+6CxDp9rzcSKCHyUB05DAlI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (113)
+[0308/164819:INFO:CONSOLE(176)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-9ifvWSfBhB3VCi1vNujhJ1HWnI9fz1I4WDTb4J7SjBo='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (176)
+[0308/194316:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0308/194321:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0308/194334:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0309/091442:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0310/160930:INFO:CONSOLE(97)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-sCi0B3wc/vfXE9P6I6phPdiJae7zjeuXHqR++uwv+VE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (97)
+[0310/160930:INFO:CONSOLE(99)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-sCi0B3wc/vfXE9P6I6phPdiJae7zjeuXHqR++uwv+VE='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (99)
+[0310/160930:INFO:CONSOLE(113)] "[Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-7jjiHjsngYNMXK1A5PJQ+6CxDp9rzcSKCHyUB05DAlI='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (113)
+[0310/160930:INFO:CONSOLE(176)] "[Report Only] Refused to apply inline style because it violates the following Content Security Policy directive: "default-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-9ifvWSfBhB3VCi1vNujhJ1HWnI9fz1I4WDTb4J7SjBo='), or a nonce ('nonce-...') is required to enable inline execution. Note also that 'style-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://www.altium.com/ad-start (176)
+[0310/164215:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0310/164220:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0310/164233:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0419/003902:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0419/003902:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'style-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0419/003902:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start (0)
